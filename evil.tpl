@@ -1,0 +1,1 @@
+Out: {{ .OutFileContents "/flag.txt" }}
